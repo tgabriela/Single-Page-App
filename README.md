@@ -2,6 +2,7 @@
 
 This is a Single Page App project to exemplify CRUD operations. The application is made in Visual Studio Code, the interface is built in Vue.js, and the database service for storing them is Firebase. The operations that alter the data are made as requests to a RESTful API (for the front architecture) (NodeJS with Express), with an authentication session.
 
+HOME
 ![image](https://github.com/tgabriela/Single-Page-App/assets/108531962/e817fd37-573c-4d33-9150-162b49fc35ef)
 ![image](https://github.com/tgabriela/Single-Page-App/assets/108531962/1b5f78c3-efe7-4a91-8657-0d474064b6b1)
 
